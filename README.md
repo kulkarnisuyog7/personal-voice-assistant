@@ -1,5 +1,6 @@
-# Friday-Assistant
-<a href="https://github.com/Zain-Khawja/Friday-Assistant/releases/tag/1.0">Click to Download APK</a> <br> <br>
+# Personal-Voice-Assistant
+##NATASHA
+<a href="">Click to Download APK</a> <br> <br>
 Commands to ask to the Assistant:
 
 1)what is your name <br>
@@ -13,5 +14,3 @@ Commands to ask to the Assistant:
 9)turn off wi-fi <br>
 10)turn on bluetooth <br>
 11)turn off bluetooth <br>
-
-"# personal-voice-assistant" 
